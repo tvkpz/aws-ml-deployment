@@ -16,5 +16,5 @@ The following topics are WIP and covered.
 10. Examples of NLP based deployment use cases
 11. Examples of Forecasting based deployment use cases
 12. Examples of Recommender systems based deployment use cases
-13. Examples of Reinforced Learning based deployment use cases
+13. Examples of Reinforcement Learning based deployment use cases
 
